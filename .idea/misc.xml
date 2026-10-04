@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.14 (django_auth)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="~/Downloads/project_pz5_tabler/.venv" project-jdk-type="Python SDK" />
+</project>
